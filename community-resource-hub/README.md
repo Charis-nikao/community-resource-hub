@@ -1,6 +1,6 @@
 # Community Resource Hub
 
-A MERN-stack scaffold for a Community Resource & Support Hub (aligned to UN SDGs).
+A MERN-stack scaffold for a Community Resource & Support Hub.
 This repository contains a backend (Express + MongoDB + Socket.io) and a frontend (React + Vite).
 
 ## Quick start (local with Docker Compose)
